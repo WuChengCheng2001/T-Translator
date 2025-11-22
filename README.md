@@ -46,14 +46,15 @@ T-Translate is a lightweight browser extension for Microsoft Edge and Chrome des
     * **公式过滤**：自动忽略 $E=mc^2$ 等格式的公式，保证译文纯净。
 
 ### 🛠 安装教程
-1.  下载并解压 `T-Translate_v7.zip` 文件。
+1.  下载并解压本仓库的zip文件。
 2.  打开 Edge 或 Chrome，在地址栏输入 `edge://extensions` 或 `chrome://extensions`。
 3.  开启 **“开发人员模式”**。
 4.  点击 **“加载解压缩的扩展”** 按钮，选择解压后的文件夹。
 
 ### 🖱️ 使用方法
 1.  选中网页上的一段英文。
-2.  **按下 `t` 键**。
+2.  **按下 `t` 键**。（如果出现悬浮菜单，先用鼠标左键点击空白处使菜单消失，然后再按下 `t` 键）
 3.  翻译框出现后，点击翻译框的任意位置即可拖动。
+
 
 
