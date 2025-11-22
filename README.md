@@ -1,6 +1,8 @@
 # T-Translate (Full-Featured Web Translator)
 
 **全功能即时网页翻译插件，支持拖动与自定义触发。**
+** 我负责写Prompt，具体代码工作全部由Gemini完成 **
+** I am responsible for writing the prompts, while all the actual coding work is handled by Gemini. **
 
 ## 🌐 Introduction (English)
 
@@ -51,3 +53,4 @@ T-Translate is a lightweight browser extension for Microsoft Edge and Chrome des
 1.  选中网页上的一段英文。
 2.  **按下 `t` 键**。
 3.  翻译框出现后，点击翻译框的任意位置即可拖动。
+
