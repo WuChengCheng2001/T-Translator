@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "T-Translate (T-key Trigger & Draggable)",
+  "version": "7.0",
+  "description": "Select text, press 't' to translate. The box appears in the bottom-right and is draggable.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
