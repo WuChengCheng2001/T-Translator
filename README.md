@@ -2,7 +2,7 @@
 
 **Instant Web Translator / 网页即时翻译插件 (修复遮挡版)**
 
-## 🇨🇳 功能介绍 (中文)
+## 功能介绍 (中文)
 
 此版本 (v7.2) 专门修复了之前版本中翻译框在右下角可能被屏幕底部遮挡的问题。
 
@@ -18,8 +18,11 @@
 4.  **防遮挡**：全局置顶显示，不会被网页导航栏覆盖。
 5.  **300词限制**：自动截断超过 300 词的长文本，保证翻译的实时性。
 
-### 🛠 安装
-解压 ZIP 包，在浏览器的扩展管理页面加载即可。
+### 🛠 安装教程
+1.  下载本仓库ZIP文件并解压。
+2.  打开 Edge 或 Chrome，在地址栏输入 `edge://extensions` 或 `chrome://extensions`。
+3.  开启 **“开发人员模式”**。
+4.  点击 **“加载解压缩的扩展”** 按钮，选择解压后的文件夹。
 
 ## 🌐 Introduction (English)
 
@@ -38,7 +41,7 @@ T-Translate is a lightweight browser extension that provides instant English-to-
 5.  **Text Limit**: Automatically truncates selections longer than 300 words to ensure rapid response times.
 
 ### 🛠 Installation
-1.  Download and unzip `T-Translate_v7.2.zip`.
+1.  Download and unzip `T-Translator.zip`.
 2.  Open **Edge** or **Chrome** -> `edge://extensions`.
 3.  Enable **Developer mode**.
 4.  Click **"Load unpacked"** and select the folder.
@@ -47,4 +50,5 @@ T-Translate is a lightweight browser extension that provides instant English-to-
 
 **我负责写Prompt，具体代码工作由Gemini完成**
 
-I am responsible for writing the prompts, while the actual coding work is handled by Gemini.
+* **I am responsible for writing the prompts, while the actual coding work is handled by Gemini.**
+
