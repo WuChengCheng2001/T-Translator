@@ -32,7 +32,7 @@ T-Translate is a lightweight browser extension that provides instant English-to-
 ### ✨ Key Features
 
 1. **Dual Trigger Methods**:
-   * **Method A**: Select text -> Press **`t`**.
+   * **Method A**: Select text -> Press **`t`** (If a floating menu appears, first click the left mouse button on a blank area to make the menu disappear, then press **`t`**).
    * **Method B**: Select text -> **Right Click** -> Choose **"T-Translate Selected"**.
 2. **Smart Bottom-Right Positioning**:
    * The popup is anchored to the **Bottom-Right** (20px margin).
@@ -52,3 +52,4 @@ T-Translate is a lightweight browser extension that provides instant English-to-
 
 * **我负责写Prompt，具体代码工作由Gemini完成**
 * **I am responsible for writing the prompts, while the actual coding work is handled by Gemini.**
+
